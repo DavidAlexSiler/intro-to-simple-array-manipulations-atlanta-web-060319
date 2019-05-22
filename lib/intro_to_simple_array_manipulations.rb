@@ -42,5 +42,8 @@ def using_delete(a, s)
   a.delete(s)
 end
 
+def using_delete_at(a, i)
+  
+
 
   
